@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Comentarios a Nokia"</string>
+    <string name="privacy_policy_name">"Privacidad"</string>
+    <string name="device_nps_text">"¿Con qué probabilidad recomendaría este teléfono a un amigo o a un compañero de trabajo?"</string>
+    <string name="product_nps_text">"¿Con qué probabilidad recomendaría este producto o servicio a un amigo o a un compañero de trabajo? (%1$s)"</string>
+    <string name="score_selector_label_min">"0: No es nada probable"</string>
+    <string name="score_selector_label_max">"10: Muy probablemente"</string>
+    <string name="score_selector_min">0</string>
+    <string name="score_selector_max">10</string>
+    <string name="score_selector_label">"Pulse para asignar punt."</string>
+    <string name="why_this_score">"Cuéntenos por qué le asigna esta puntuación:"</string>
+    <string name="your_feedback">"Escriba comentarios aquí"</string>
+    <string name="checkbox_label">"¿Podemos contactar con usted más adelante para obtener más detalles?"</string>
+    <string name="email_entry_field_pre_fill_in">"Introd. aquí dir. correo el."</string>
+    <string name="privacy_info_label">"Su información se asociará a su teléfono y se tratará según la "<a href="nps://launch_nokiaprivacypolicy">"Política de privacidad de Nokia"</a>". Pueden aplicarse tarifas del operador."</string>
+    <string name="send_button_label">"Enviar"</string>
+    <string name="OK">"Aceptar"</string>
+    <string name="cancel">"Cancelar"</string>
+    <string name="Later">"Más tarde"</string>
+    <string name="status_message_while_sending">"Enviando comentarios"</string>
+    <string name="thank_you_title">"Gracias"</string>
+    <string name="thank_you_product">"Gracias por compartir su opinión con nosotros. Nos ayudará a mejorar nuestros productos en el futuro."\n\n"Ha llegado al final de la encuesta."</string>
+    <string name="thank_you_phone_0_3">"Lamentamos oír que no le satisface el teléfono. Si aún no lo ha probado, Nokia Care podría ayudarle."\n\n"Apreciamos considerablemente sus comentarios. Nos ayudan mucho a comprender su experiencia con el teléfono."</string>
+    <string name="thank_you_phone_4_8">"Apreciamos considerablemente sus comentarios. Nos ayudan mucho a comprender su experiencia con el teléfono."</string>
+    <string name="thank_you_phone_9_10">"Apreciamos considerablemente sus comentarios. Nos ayudan mucho a comprender su experiencia con el teléfono."\n\n"¡Nos alegra oír que le gusta el teléfono! ¿Por qué no lo divulga?"</string>
+    <string name="cannot_send_feedback_title">"No se puede env. com."</string>
+    <string name="cannot_send_feedback_body">"Asegúrese de que el modo de vuelo esté desactivado y compruebe la conexión de datos o Wi-Fi."</string>
+    <string name="close">"Cerrar"</string>
+    <string name="nokia_privacy_policy">"Nokia respeta su privacidad. Al activarse el dispositivo, solo se envía información de la red y de su dispositivo a Nokia Corporation. Esta información nos permite satisfacer mejor la demanda en su país, proporcionar actualizaciones de software, dar soporte de atención al cliente de Nokia y activar servicios de Nokia. No se usará para identificarle personalmente ni para marketing directo."\n\n"La información recopilada no se venderá por ningún motivo. Nosotros solo podremos compartirla con otras empresas de Nokia o terceros autorizados que la procesen en nuestro nombre o cuando exista una obligación legal de hacerlo."\n\n"La información puede transferirse a través de fronteras internacionales y fuera de Europa de conformidad con la legislación vigente. Aplicamos las medidas de seguridad de la información adecuadas para protegerla."\n\n"Tiene derecho a acceder a sus datos personales y a rectificarlos. Para ejercer sus derechos, póngase en contacto con nosotros a través de www.nokia.com o directamente con Nokia Corporation c/o Privacy, FIN-Keilalahdentie 4, 02150 Espoo, Finlandia."\n\n"Se pueden proporcionar más privacidad u otros avisos al usar las diferentes funciones de su dispositivo. El uso de los servicios y las aplicaciones de Nokia en el dispositivo se rige por los Términos de uso y la Política de privacidad de Nokia. Puede leerlos en cualquier momento en la página <a href="http://www.nokia.com/privacy">www.nokia.com/privacy</a>."</string>
+    <string name="rate_your_phone">"Valore el teléfono"</string>
+    <string name="intro_page">"Su opinión es muy importante para Nokia. Por eso, le pedimos que nos cuente lo que opina de su nuevo teléfono."\n\n"Si desea participar en esta encuesta más tarde, puede encontrarla en Ajustes."</string>
+    <string name="share_the_love">"Compártalo"</string>
+    <string name="not_now">"Ahora no"</string>
+    <string name="update_status">"Actualizar estado"</string>
+    <string name="I_love_nokia">"¡Me encanta mi nuevo teléfono Nokia! Míralo aquí: %1$s"</string>
+    <string name="for_test_start">Start</string>
+    <string name="for_test_info">This Activity will launch NPSActivity and transfer the parameters { TestAppName TestProjectId TestSourceId TestBackend TestAppVersion TestGenericParams } to it.</string>
+
+</resources>

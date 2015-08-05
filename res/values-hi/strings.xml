@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Nokia को फीडबैक दें"</string>
+    <string name="privacy_policy_name">"गोपनीयता"</string>
+    <string name="device_nps_text">"इसकी कितनी संभावना है कि आप अपने किसी मित्र या सहकर्मी को इस फ़ोन का सुझाव देंगे?"</string>
+    <string name="product_nps_text">"आपके द्वारा किसी मित्र या सहकर्मी को इस उत्पाद या सेवा का सुझाव देने की कितनी संभावना है? (%1$s)"</string>
+    <string name="score_selector_label_min">"0: कोई संभावना नहीं है"</string>
+    <string name="score_selector_label_max">"10: पूरी संभावना है"</string>
+    <string name="score_selector_min">0</string>
+    <string name="score_selector_max">10</string>
+    <string name="score_selector_label">"स्कोर देने के लिए टैप करें"</string>
+    <string name="why_this_score">"कृपया हमें यह स्कोर देने का कारण बताएँ:"</string>
+    <string name="your_feedback">"अपना फीडबैक यहाँ लिखें"</string>
+    <string name="checkbox_label">"क्या हम विवरण के लिए आपसे बाद में संपर्क कर सकते हैं?"</string>
+    <string name="email_entry_field_pre_fill_in">"यहाँ अपना ईमेल पता लिखें"</string>
+    <string name="privacy_info_label">"आपकी जानकारी आपके फ़ोन से संबद्ध कर दी जाएगी और उसका उपयोग "<a href="nps://launch_nokiaprivacypolicy">"Nokia गोपनीयता नीति"</a>" के अनुसार किया जाएगा, ऑपरेटर शुल्क लागू हो सकता है।"</string>
+    <string name="send_button_label">"भेजें"</string>
+    <string name="OK">"ठीक"</string>
+    <string name="cancel">"रद्द करें"</string>
+    <string name="Later">"बाद में"</string>
+    <string name="status_message_while_sending">"फीडबैक भेज रहा है"</string>
+    <string name="thank_you_title">"धन्यवाद"</string>
+    <string name="thank_you_product">"हमें अपनी राय देने के लिए धन्यवाद। इससे हमें भविष्य में अपने उत्पादों को बेहतर बनाने में मदद मिलेगी।"\n\n" यह सर्वेक्षण पूरा हुआ।"</string>
+    <string name="thank_you_phone_0_3">"हमें यह जानकर दुख हुआ कि आप अपने फ़ोन से खुश नहीं हैं। यदि आपने इसे पहले नहीं आज़माया है, तो Nokia Care आपकी सहायता कर सकता है।"\n\n"हम आपके फीडबैक की सराहना करते हैं। यह आपके फ़ोन के बारे में आपके अनुभव को समझने में हमारी बहुत सहायता करता है।"</string>
+    <string name="thank_you_phone_4_8">"हम आपके फीडबैक की सराहना करते हैं। यह आपके फ़ोन के बारे में आपके अनुभव को समझने में हमारी बहुत सहायता करता है।"</string>
+    <string name="thank_you_phone_9_10">"हम आपके फीडबैक की सराहना करते हैं। यह आपके फ़ोन के बारे में आपके अनुभव को समझने में हमारी बहुत सहायता करता है।"\n\n"हमें यह जानकर खुशी हुई कि आपको अपना फ़ोन पसंद है! क्यों न इस बात का प्रचार किया जाए?"</string>
+    <string name="cannot_send_feedback_title">"फीडबैक नहीं भेजा जा सकता"</string>
+    <string name="cannot_send_feedback_body">"सुनिश्चित करें कि फ़्लाइट मोड बंद है और अपने डेटा या Wi-Fi कनेक्शन की जांच करें।"</string>
+    <string name="close">"बंद करें"</string>
+    <string name="nokia_privacy_policy">"Nokia आपकी गोपनीयता का सम्मान करता है। डिवाइस के सक्रिय होने पर आपके विशिष्ट डिवाइस और नेटवर्क की जानकारी Nokia Corporation को भेजी जाती है। इस जानकारी के सहारे हम आपके देश में पैदा होने वाली मांगों को बेहतर ढंग से पूरा कर सकते हैं, Nokia ग्राहक सेवा का सुचारु ढंग से संचालन कर सकते हैं और Nokia सेवाएँ सक्रिय कर सकते हैं। इसका उपयोग प्रत्यक्ष मार्केटिंग के उद्देश्य से आपकी व्यक्तिगत जानकारी एकत्र करने के लिए नहीं किया जाएगा।"\n\n"हम किसी भी उद्देश्य से एकत्र की गई जानकारी को नहीं बेचेंगे। हम इसे केवल अन्य Nokia कंपनियों या हमारी ओर से इसे प्रोसेस करने वाले अधिकृत तृतीय पक्षों या कानूनी रूप से ऐसा ज़रूरी होने पर ही साझा कर सकते हैं।"\n\n"यह जानकारी अंतर्राष्ट्रीय सीमाओं के पार या यूरोप के बाहर केवल लागू कानूनों के अनुपालन में ही स्थानांतरित की जाएगी। इस जानकारी को सुरक्षित रखने के लिए, हम उचित सूचना सुरक्षा उपायों का उपयोग करते हैं।"\n\n"आपको अपना व्यक्तिगत डेटा एक्सेस करने और उसमें बदलाव करने का पूरा अधिकार है। अपने अधिकार का उपयोग करने के लिए, www.nokia.com के ज़रिये या Nokia Corporation c/o Privacy, FIN-Keilalahdentie 4, 02150 Espoo, Finland पर हमसे सीधे संपर्क करें।"\n\n"अपने डिवाइस की अलग-अलग सुविधाओं का उपयोग करने पर आपको गोपनीयता की अतिरिक्त नीतियों और अन्य सूचनाओं से अवगत करवाया जाएगा। अपने डिवाइस पर Nokia सेवाओं और एप्लिकेशन का आपके द्वारा किया जाने वाला उपयोग, Nokia उपयोग की शर्तों और गोपनीयता नीति के अधीन है। आप <a href="http://www.nokia.com/privacy">www.nokia.com/privacy</a> पर जाकर उन्हें जब चाहें पढ़ सकते हैं।"</string>
+    <string name="rate_your_phone">"अपने फ़ोन का मूल्यांकन करें"</string>
+    <string name="intro_page">"आपकी राय Nokia के लिए बेहद महत्वपूर्ण है, इसलिए कृपया हमें बताएं कि आपका अपने नए फ़ोन के बारे में क्या विचार है।"\n" यदि आप इस सर्वेक्षण में बाद में हिस्सा लेना चाहेंगे, तो आप सेटिंग्स में जाकर इस तक पहुंच सकते हैं।"</string>
+    <string name="share_the_love">"प्रेम बांटें"</string>
+    <string name="not_now">"अभी नहीं, धन्यवाद"</string>
+    <string name="update_status">"अपडेट स्थिति"</string>
+    <string name="I_love_nokia">"मुझे मेरा नया Nokia फ़ोन बहुत पसंद है! इसे यहाँ देखें: %1$s"</string>
+    <string name="for_test_start">Start</string>
+    <string name="for_test_info">This Activity will launch NPSActivity and transfer the parameters { TestAppName TestProjectId TestSourceId TestBackend TestAppVersion TestGenericParams } to it.</string>
+
+</resources>

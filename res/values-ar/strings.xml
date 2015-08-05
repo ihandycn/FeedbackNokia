@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"تعليق إلى Nokia‬"</string>
+    <string name="privacy_policy_name">"الخصوصية"</string>
+    <string name="device_nps_text">"إلى أي مدى تتوقع أن توصي أحد الأصدقاء أو الزملاء بهذا الهاتف؟"</string>
+    <string name="product_nps_text">"ما مدى احتمال أن تزكي هذا المنتج أو الخدمة لصديق أو زميل؟ (%1$s)"</string>
+    <string name="score_selector_label_min">"غير محتمل على الإطلاق :0"</string>
+    <string name="score_selector_label_max">"يحتمل بشدة :10"</string>
+    <string name="score_selector_min">0</string>
+    <string name="score_selector_max">10</string>
+    <string name="score_selector_label">"انقر لوضع درجة"</string>
+    <string name="why_this_score">"نرجو أن تخبرنا بسبب هذه النتيجة:"</string>
+    <string name="your_feedback">"اكتب تعليقك هنا"</string>
+    <string name="checkbox_label">"هل يمكننا الاتصال بك لاحقًا؟"</string>
+    <string name="email_entry_field_pre_fill_in">"أدخل عنوان بريد إلكتروني هنا"</string>
+    <string name="privacy_info_label">"ستكون معلوماتك مرتبطة بهاتفك وسيتم التعامل معها وفقًا لـ "<a href="nps://launch_nokiaprivacypolicy">"سياسة الخصوصية من Nokia."</a>"قد يتم فرض رسوم المشغل."</string>
+    <string name="send_button_label">"إرسال"</string>
+    <string name="OK">"موافق"</string>
+    <string name="cancel">"إلغاء"</string>
+    <string name="Later">"فيما بعد"</string>
+    <string name="status_message_while_sending">"يتم الآن إرسال التعليق"</string>
+    <string name="thank_you_title">"‏‫شكرًا لك"</string>
+    <string name="thank_you_product">"شكرًا لك على المشاركة برأيك معنا. سيساعدنا ذلك في تحسين منتجاتنا في المستقبل."\n\n" يُكمل ذلك الاستبيان."</string>
+    <string name="thank_you_phone_0_3">"نأسف لعلمنا أن الهاتف لم يعجبك. إذا كنت لم تجربه، فبإمكان Nokia Care تقديم المساعدة."\n\n"نقدر تعليقك كثيرًا. إنه مفيد جدًا لنا لنفهم كيف وجدت هاتفك.\u202C"</string>
+    <string name="thank_you_phone_4_8">"نقدر تعليقك كثيرًا. إنه مفيد جدًا لنا لنفهم كيف وجدت هاتفك."</string>
+    <string name="thank_you_phone_9_10">"نقدر تعليقك كثيرًا. إنه مفيد جدًا لنا لنفهم كيف وجدت هاتفك.\u202C"\n\n"ويسرنا أن نعلم أن الهاتف أعجبك! لمَ لا تنشر ذلك؟"</string>
+    <string name="cannot_send_feedback_title">"لا يمكن إرسال تعليق"</string>
+    <string name="cannot_send_feedback_body">"تأكد من إيقاف تشغيل وضع الطيران وتحقق من البيانات أو اتصال Wi-Fi."</string>
+    <string name="close">"إغلاق"</string>
+    <string name="nokia_privacy_policy">"تحترم Nokia خصوصيتك. وبمجرد تنشيط جهازك يتم إرسال معلومات الجهاز والشبكة الفريدة الخاصة بك إلى شركة Nokia Corporation. وتمكننا هذه المعلومات من تلبية الطلب في بلدك بشكل أفضل وتوفير تحديثات البرامج ودعم رعاية عملاء Nokia وتنشيط خدمات Nokia. ولن تُستخدم للتعرف على شخصيتك أو لأغراض التسويق المباشرة."\n\n"لن نبيع المعلومات التي جمعناها لأي غرض. وقد نتداولها فقط مع شركات Nokia الأخرى أو الجهات الخارجية المرخصة التي تعالجها نيابة عنك أو عند وجود التزام قانوني بذلك."\n\n"وقد يتم نقل المعلومات عبر الحدود الدولية وخارج أوروبا وفقًا للقوانين المعمول بها. ونستخدم إجراءات الأمان المناسبة الخاصة بالمعلومات."\n\n"ولديك الحق في الوصول إلى بياناتك الشخصية أو تعديلها. لممارسة حقوقك، يرجى التواصل معنا عبر الموقع www.nokia.com أو مراسلتنا مباشرة على العنوان Nokia Corporation c/o Privacy, FIN-Keilalahdentie \u206F4, 02150\u206E Espoo, Finland."\n\n"يجوز تقديم إشعارات إضافية ذات صلة بالخصوصية أو إشعارات أخرى عند استخدام الميزات المختلفة على جهازك. يخضع استخدام الخدمات والتطبيقات المقدمة من Nokia على جهاز لشروط الاستخدام من Nokia وسياسة الخصوصية. ويمكنك الاطلاع عليها في أي وقت من خلال زيارة الموقع <a href="http://www.nokia.com/privacy">www.nokia.com/privacy</a>."</string>
+    <string name="rate_your_phone">"قيِّم هاتفك"</string>
+    <string name="intro_page">"رأيك في غاية الأهمية بالنسبة لشركة Nokia، لذا نرجو أن تخبرنا عن رأيك في الهاتف الجديد."\n"إذا كنت ترغب في المشاركة في هذا الاستبيان فيما بعد، فيمكنك البحث عنه من الضبط."</string>
+    <string name="share_the_love">"مشاركة الحب"</string>
+    <string name="not_now">"ليس الآن، شكرًا"</string>
+    <string name="update_status">"تحديث الحالة"</string>
+    <string name="I_love_nokia">"أحب هاتف Nokia الجديد! يمكنك معاينته هنا: %1$s"</string>
+    <string name="for_test_start">Start</string>
+    <string name="for_test_info">This Activity will launch NPSActivity and transfer the parameters { TestAppName TestProjectId TestSourceId TestBackend TestAppVersion TestGenericParams } to it.</string>
+
+</resources>

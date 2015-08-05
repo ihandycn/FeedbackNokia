@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Обратна връзка с Nokia"</string>
+    <string name="privacy_policy_name">"Поверителност"</string>
+    <string name="device_nps_text">"Доколко сте склонни да препоръчате този телефон на приятел или колега?"</string>
+    <string name="product_nps_text">"Доколко сте склонни да препоръчате този продукт или услуга на приятел или колега? (%1$s)"</string>
+    <string name="score_selector_label_min">"0: Въобще не е вероятно"</string>
+    <string name="score_selector_label_max">"10: Изключително вероятно"</string>
+    <string name="score_selector_min">0</string>
+    <string name="score_selector_max">10</string>
+    <string name="score_selector_label">"Докоснете за оценка"</string>
+    <string name="why_this_score">"Защо давате тази оценка:"</string>
+    <string name="your_feedback">"Напишете отзива си тук"</string>
+    <string name="checkbox_label">"Може ли да се свързваме с вас за детайли?"</string>
+    <string name="email_entry_field_pre_fill_in">"Вашият имейл адрес"</string>
+    <string name="privacy_info_label">"Вашите данни ще бъдат свързани с телефона и ще се използват съгласно "<a href="nps://launch_nokiaprivacypolicy">"Правилата за поверителност на Nokia."</a>" Мобилният оператор може да ви таксува съответно."</string>
+    <string name="send_button_label">"Изпрати"</string>
+    <string name="OK">"ОК"</string>
+    <string name="cancel">"Отказ"</string>
+    <string name="Later">"По-късно"</string>
+    <string name="status_message_while_sending">"Изпращане на отзива"</string>
+    <string name="thank_you_title">"Благодарим ви"</string>
+    <string name="thank_you_product">"Благодарим за вашето мнение. То ще ни помогне да подобрим продукта в бъдеще."\n\n"С това анкетата завърши."</string>
+    <string name="thank_you_phone_0_3">"Съжаляваме, че не сте доволни от телефона си. Ако все още не сте го изпробвали, Nokia Care може да успее да ви помогне."\n\n"Ние наистина ценим вашето мнение. За нас е много полезно да разберем какво мислите за вашия телефон."</string>
+    <string name="thank_you_phone_4_8">"Ние наистина ценим вашето мнение. За нас е много полезно да разберем какво мислите за вашия телефон."</string>
+    <string name="thank_you_phone_9_10">"Ние наистина ценим вашето мнение. За нас е много полезно да разберем какво мислите за вашия телефон."\n\n"Радваме се, че сте доволни от телефона си! Защо не разкажете и на другите?"</string>
+    <string name="cannot_send_feedback_title">"Отзивът не е изпратен"</string>
+    <string name="cannot_send_feedback_body">"Уверете се, че сте изключили режим полет, и проверете вашата Wi-Fi връзка или връзка за данни."</string>
+    <string name="close">"Затвори"</string>
+    <string name="nokia_privacy_policy">"Nokia уважава вашата поверителност. При активирането на устройството уникалната информация за него и за мрежата се изпраща на Nokia Corporation. Тази информация ни позволява да осигурим по-добро обслужване, съобразено с нуждите във вашата страна, както и актуализации на софтуера, поддръжка на клиентите на Nokia и активиране на услугите на Nokia. Тя няма да бъде използвана за идентифициране на вашата личност, нито за директен маркетинг."\n\n"Ние няма да продаваме събраната информация за каквито и да било цели. Възможно е само да я споделим с други компании на Nokia или с оторизирани трети лица, които я обработват от наше име, или когато сме задължени по закон да направим това."\n\n"Информацията може да бъде прехвърлена зад граница и извън Европа в съответствие с приложимото законодателство. Ние прилагаме подходящи мерки за сигурност с цел защита на информацията."\n\n"Имате право на достъп и редактиране на вашите лични данни. За да упражните правата си, се свържете с нас чрез www.nokia.com или директно на адрес Nokia Corporation c/o Privacy, FIN-Keilalahdentie 4, 02150 Espoo, Финландия."\n\n"Може да получите и други бележки относно поверителността или друго, когато използвате различни функции на устройството. Използването на услугите и приложенията на Nokia в устройството се подчинява на Условията за ползване и Правилата за поверителност на Nokia. Можете да ги прочетете, когато пожелаете, на <a href="http://www.nokia.com/privacy">www.nokia.com/privacy</a>."</string>
+    <string name="rate_your_phone">"Оценете телефона си"</string>
+    <string name="intro_page">"Nokia цени високо вашето мнение, затова молим да ни кажете какво мислите за новия си телефон."\n\n"Ако искате да участвате в тази анкета по-късно, ще я намерите в Настройки."</string>
+    <string name="share_the_love">"Обичам го"</string>
+    <string name="not_now">"Не сега"</string>
+    <string name="update_status">"Актуализиране на състояние"</string>
+    <string name="I_love_nokia">"Обичам новия си телефон Nokia! Вижте го тук: %1$s"</string>
+    <string name="for_test_start">Start</string>
+    <string name="for_test_info">This Activity will launch NPSActivity and transfer the parameters { TestAppName TestProjectId TestSourceId TestBackend TestAppVersion TestGenericParams } to it.</string>
+
+</resources>

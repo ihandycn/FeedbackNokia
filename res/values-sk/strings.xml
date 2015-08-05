@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Spätná väzba spol. Nokia"</string>
+    <string name="privacy_policy_name">"Ochrana osobných údajov"</string>
+    <string name="device_nps_text">"Vyjadrite pravdepodobnosť odporučenia tohto telefónu priateľovi/kolegovi."</string>
+    <string name="product_nps_text">"Aká je pravdepodobnosť, že budete odporúčať tento produkt alebo službu priateľovi či kolegovi? (%1$s)"</string>
+    <string name="score_selector_label_min">"0: Nepravdepodobné"</string>
+    <string name="score_selector_label_max">"10: Vysoko pravdepod."</string>
+    <string name="score_selector_min">0</string>
+    <string name="score_selector_max">10</string>
+    <string name="score_selector_label">"Klep. zadajte skóre"</string>
+    <string name="why_this_score">"Uveďte dôvod udelenia tohto skóre:"</string>
+    <string name="your_feedback">"Sem napíšte spätnú väzbu"</string>
+    <string name="checkbox_label">"Môžeme vás kontakt. v\u00A0prípade potreby?"</string>
+    <string name="email_entry_field_pre_fill_in">"Sem zadajte e-mailovú adresu"</string>
+    <string name="privacy_info_label">"Vaše inf. sa priradia k\u00A0telefónu a spracujú sa v\u00A0súlade s\u00A0dokum. "<a href="nps://launch_nokiaprivacypolicy">"Zásady ochr. os. údajov spol. Nokia."</a>" Môžu sa účt. poplatky operátora."</string>
+    <string name="send_button_label">"Poslať"</string>
+    <string name="OK">"OK"</string>
+    <string name="cancel">"Zrušiť"</string>
+    <string name="Later">"Neskôr"</string>
+    <string name="status_message_while_sending">"Posiela sa spät. väzba"</string>
+    <string name="thank_you_title">"Ďakujeme"</string>
+    <string name="thank_you_product">"Ďakujeme, že ste sa s nami podelili o názor. Pomôže nám to zlepšiť naše výrobky v budúcnosti."\n\n"Toto je záver prieskumu."</string>
+    <string name="thank_you_phone_0_3">"Je nám ľúto, že nie ste s telefónom spokojní. Pomôcť vám môže zákaznícka služba Nokia Care, ak ste ju zatiaľ nevyužili."\n\n"Vážime si vašu spätnú väzbu. Pomáha nám dozvedieť sa o vašich skúsenostiach s používaním telefónu."</string>
+    <string name="thank_you_phone_4_8">"Vážime si vašu spätnú väzbu. Umožňuje nám dozvedieť sa o vašich skúsenostiach s používaním telefónu."</string>
+    <string name="thank_you_phone_9_10">"Vážime si vašu spätnú väzbu. Pomáha nám dozvedieť sa o vašich skúsenostiach s používaním telefónu."\n\n"Teší nás, že ste s telefónom spokojní! Môžete sa podeliť so svojimi skúsenosťami."</string>
+    <string name="cannot_send_feedback_title">"Nem. poslať spät. väzbu"</string>
+    <string name="cannot_send_feedback_body">"Ubezpečte sa, že rež. lietadla je vyp. a skontrolujte dát. pripojenie alebo Wi-Fi."</string>
+    <string name="close">"Zavrieť"</string>
+    <string name="nokia_privacy_policy">"Nokia rešpektuje vaše súkromie. Pri aktivovaní zariadenia sa jedinečné informácie o zar. a sieti odošlú do spol. Nokia Corporation. Tieto informácie nám umožňujú lepšie plniť požiadavky vašej krajiny, poskytovať softvérové aktualizácie a podporu zákazníkom, ako aj aktivovať služby Nokia. Nepoužijeme ich na vašu identifikáciu ani na priamy marketing."\n\n"Zhromaždené informácie nebudeme predávať na žiadny účel. Môžeme ich zdieľať len s\u00A0inými spol. Nokia al. autorizovanými tretími stranami, ktoré ich spravujú v\u00A0našom mene alebo na zákl. zákonnej povinnosti."\n\n"Informácie sa môžu prenášať cez medzinárodné hranice a mimo Európy v\u00A0súlade s platnými zákonmi. Na ochranu informácií používame príslušné bezpečnostné opatrenia."\n\n"Máte právo prístupu a úpravy vašich os. údajov. Ak chcete uplatniť tieto práva, kontaktujte nás cez web. stránku www.nokia.com alebo priamo v\u00A0spol. Nokia Corporation, odd. os. údajov, FIN-Keilalahdentie 4, 02150 Espoo, Fínsko."\n\n"Pri používaní rôznych funkcií vášho zar. sa môžu poskytovať dodatočné oznámenia týkajúce sa súkromia a pod. Používanie služieb a aplikácií Nokia v\u00A0zar. sa riadi Podm. použ. služieb a Zásadami ochr. os. údajov spol. Nokia. Kedykoľvek si ich môžete prečítať tu: <a href="http://www.nokia.com/privacy">www.nokia.com/privacy</a>."</string>
+    <string name="rate_your_phone">"Ohodnoťte svoj telefón"</string>
+    <string name="intro_page">"Spol. Nokia si cení váš názor, preto by sme radi vedeli, čo si myslíte o\u00A0vašom novom telefóne."\n\n"Ak sa chcete prieskumu zúčastniť neskôr, nájdete ho v\u00A0zl. Nastavenia."</string>
+    <string name="share_the_love">"Zdieľať"</string>
+    <string name="not_now">"Teraz nie"</string>
+    <string name="update_status">"Aktualiz. stav"</string>
+    <string name="I_love_nokia">"Môj nový telefón Nokia je úžasný! Pozrite si ho: %1$s"</string>
+    <string name="for_test_start">Start</string>
+    <string name="for_test_info">This Activity will launch NPSActivity and transfer the parameters { TestAppName TestProjectId TestSourceId TestBackend TestAppVersion TestGenericParams } to it.</string>
+
+</resources>

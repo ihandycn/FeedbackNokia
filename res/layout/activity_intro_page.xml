@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/info_layout" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dip"
+        android:paddingBottom="17px"
+        android:paddingTop="17px" >
+
+        <TextView
+            style="@style/info_value"
+            android:text="@string/intro_page" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/intro_page_ok"
+        style="@style/full_screen_button"
+        android:text="@string/OK" />
+
+    <Button
+        android:id="@+id/intro_page_later"
+        style="@style/full_screen_button"
+        android:text="@string/Later" />
+
+</LinearLayout>

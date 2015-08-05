@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Feedback către Nokia"</string>
+    <string name="privacy_policy_name">"Confidenţialitate"</string>
+    <string name="device_nps_text">"Cât este de probabil să-i recomanzi acest telefon unui prieten sau unui coleg?"</string>
+    <string name="product_nps_text">"Cât este de probabil să-i recomanzi acest produs sau serviciu unui prieten sau unui coleg? (%1$s)"</string>
+    <string name="score_selector_label_min">"0: Deloc probabil"</string>
+    <string name="score_selector_label_max">"10: Foarte probabil"</string>
+    <string name="score_selector_min">0</string>
+    <string name="score_selector_max">10</string>
+    <string name="score_selector_label">"Atinge pt. a acorda un scor"</string>
+    <string name="why_this_score">"Spune-ne de ce ai acordat scorul acesta:"</string>
+    <string name="your_feedback">"Scrie feedback-ul aici"</string>
+    <string name="checkbox_label">"Te putem contacta mai târziu pentru detalii?"</string>
+    <string name="email_entry_field_pre_fill_in">"Indică adr. de e-mail aici"</string>
+    <string name="privacy_info_label">"Datele vor fi asociate cu telefonul şi vor fi utilizate în conformitate cu "<a href="nps://launch_nokiaprivacypolicy">"Politica de confidenţialitate Nokia."</a>" Se pot aplica taxe de operator."</string>
+    <string name="send_button_label">"Expediere"</string>
+    <string name="OK">"OK"</string>
+    <string name="cancel">"Anulare"</string>
+    <string name="Later">"Mai târziu"</string>
+    <string name="status_message_while_sending">"Expediere feedback în curs"</string>
+    <string name="thank_you_title">"Mulţumim"</string>
+    <string name="thank_you_product">"Mulţumim că ne-ai spus opinia ta. Ne va ajuta să ne îmbunătăţim produsele în viitor."\n\n" Cu aceasta, sondajul este finalizat."</string>
+    <string name="thank_you_phone_0_3">"Ne pare rău că nu eşti mulţumit de telefon. Dacă nu ai încercat încă această opţiune, Nokia Care te poate ajuta."\n\n"Îţi mulţumim pentru feedback. Ne ajută foarte mult să vedem care este experienţa ta cu telefonul."</string>
+    <string name="thank_you_phone_4_8">"Îţi mulţumim pentru feedback. Ne ajută foarte mult să vedem care este experienţa ta cu telefonul."</string>
+    <string name="thank_you_phone_9_10">"Îţi mulţumim pentru feedback. Ne ajută foarte mult să vedem care este experienţa ta cu telefonul."\n\n"Ne bucurăm să auzim că îţi place telefonul! Ce-ar fi să răspândeşti vestea?"</string>
+    <string name="cannot_send_feedback_title">"Impos. de trim. feedback"</string>
+    <string name="cannot_send_feedback_body">"Asigură-te că modul avion este dezactivat şi verifică datele sau conexiunea Wi-Fi."</string>
+    <string name="close">"Închidere"</string>
+    <string name="nokia_privacy_policy">"Nokia îţi respectă confidenţialitatea. La activarea aparatului, informaţiile unice aferente aparatului şi reţelei sunt transmise către Nokia Corporation. Aceste informaţii ne permit să ne adaptăm mai bine cerinţelor din ţara ta, să oferim actualizări software, asistenţă pentru clienţi Nokia şi să activăm servicii Nokia. Nu vor fi utilizate pentru identificare personală sau pentru marketing direct."\n\n"Nu vom vinde informaţiile colectate în niciun scop. Este posibil să le partajăm doar cu alte companii Nokia sau terţe părţi autorizate, care le procesează în numele nostru sau atunci când partajarea este o obligaţie legală."\n\n"Informaţiile pot fi transferate peste graniţele internaţionale şi în afara Europei, în conformitate cu legile aplicabile. Luăm măsuri adecvate de securitate pentru protejarea informaţiilor."\n\n"Ai dreptul să accesezi sau să rectifici datele personale. Pentru a-ţi exercita drepturile, contactează-ne prin www.nokia.com sau direct la Nokia Corporation c/o Privacy, FIN-Keilalahdentie 4, 02150 Espoo, Finlanda."\n\n"Pot fi furnizate notificări suplimentare de confidenţialitate sau de altă natură atunci când utilizezi diferitele caracteristici ale aparatului. Utilizarea serviciilor şi aplicaţiilor Nokia în aparat este guvernată de Termenii de utilizare şi de Politica de confidenţialitate Nokia. Pot fi consultaţi oricând, accesând <a href="http://www.nokia.com/privacy">www.nokia.com/privacy</a>."</string>
+    <string name="rate_your_phone">"Evaluează telefonul"</string>
+    <string name="intro_page">"Opinia ta este foarte valoroasă pentru Nokia. Aşadar, spune-ne ce crezi despre noul telefon."\n" Dacă doreşti să participi la sondaj mai târziu, îl poţi găsi în Setări."</string>
+    <string name="share_the_love">"Feedback pozitiv"</string>
+    <string name="not_now">"Nu acum, mulţ."</string>
+    <string name="update_status">"Actualizează starea"</string>
+    <string name="I_love_nokia">"Iubesc noul meu telefon Nokia! Iată-l aici: %1$s"</string>
+    <string name="for_test_start">Start</string>
+    <string name="for_test_info">This Activity will launch NPSActivity and transfer the parameters { TestAppName TestProjectId TestSourceId TestBackend TestAppVersion TestGenericParams } to it.</string>
+
+</resources>

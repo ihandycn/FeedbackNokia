@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Opinia do firmy Nokia"</string>
+    <string name="privacy_policy_name">"Prywatność"</string>
+    <string name="device_nps_text">"Jakie jest prawdopodobieństwo, że polecisz ten telefon znajomym?"</string>
+    <string name="product_nps_text">"Jakie jest prawdopodobieństwo, że polecisz produkt lub usługę znajomym? (%1$s)"</string>
+    <string name="score_selector_label_min">"0: Żadne"</string>
+    <string name="score_selector_label_max">"10: Bardzo duże"</string>
+    <string name="score_selector_min">0</string>
+    <string name="score_selector_max">10</string>
+    <string name="score_selector_label">"Dotknij, aby ocenić"</string>
+    <string name="why_this_score">"Uzasadnij ocenę:"</string>
+    <string name="your_feedback">"Tutaj wpisz komentarz"</string>
+    <string name="checkbox_label">"Możemy się z Tobą skontaktować później, aby uzyskać dodatkowe informacje?"</string>
+    <string name="email_entry_field_pre_fill_in">"Tutaj podaj adres e-mail"</string>
+    <string name="privacy_info_label">"Podane przez Ciebie informacje zostaną powiązane z Twoim telefonem i będą przetwarzane zgodnie z "<a href="nps://launch_nokiaprivacypolicy">"Zasadami ochrony prywatności firmy Nokia."</a>" Mogą zostać naliczone opłaty przez operatora."</string>
+    <string name="send_button_label">"Wyślij"</string>
+    <string name="OK">"OK"</string>
+    <string name="cancel">"Anuluj"</string>
+    <string name="Later">"Później"</string>
+    <string name="status_message_while_sending">"Wysyłanie opinii"</string>
+    <string name="thank_you_title">"Dziękujemy"</string>
+    <string name="thank_you_product">"Dziękujemy za przesłaną opinię. Pomoże nam ona w doskonaleniu naszych produktów."\n\n" Koniec ankiety."</string>
+    <string name="thank_you_phone_0_3">"Przykro nam słyszeć, że telefon nie spełnia Twoich oczekiwań. Zachęcamy do skorzystania z pomocy serwisu Nokia Care."\n\n"Doceniamy opinię naszych klientów. Twoja opinia na temat telefonu jest dla nas cennym źródłem informacji."</string>
+    <string name="thank_you_phone_4_8">"Doceniamy opinię naszych klientów. Twoja opinia na temat telefonu jest dla nas cennym źródłem informacji."</string>
+    <string name="thank_you_phone_9_10">"Doceniamy opinię naszych klientów. Twoja opinia na temat telefonu jest dla nas cennym źródłem informacji."\n\n"Miło nam słyszeć, że telefon spełnia Twoje oczekiwania. Czemu nie powiedzieć o tym znajomym?"</string>
+    <string name="cannot_send_feedback_title">"Nie można wysłać opinii"</string>
+    <string name="cannot_send_feedback_body">"Upewnij się, że tryb samolotowy jest wyłączony, i sprawdź połączenie danych lub Wi-Fi."</string>
+    <string name="close">"Zamknij"</string>
+    <string name="nokia_privacy_policy">"Nokia szanuje Twoją prywatność. Wraz z aktywacją urządzenia Twoje unikalne informacje na temat urządzenia i sieci zostaną wysłane do firmy Nokia Corporation. Dzięki tym danym możemy wyjść naprzeciw potrzebom użytkowników w Twoim kraju, udostępnić aktualizacje oprogramowania, zapewnić obsługę klienta i pomoc techniczną Nokia oraz aktywować usługi Nokia. Podane informacje nie zostaną wykorzystane do identyfikacji użytkownika ani w celach marketingowych."\n\n"W żadnym wypadku nie sprzedajemy zebranych danych. Możemy je jedynie udostępnić innym oddziałom Nokia lub autoryzowanym firmom zewnętrznym, które przetworzą je w naszym imieniu lub jeśli będzie to wymagane przez prawo."\n\n"Informacje mogą zostać przekazane za granicę i poza Europę, zgodnie z obowiązującymi przepisami prawa. Zachowujemy wszelkie środki ostrożności, aby chronić te informacje."\n\n"Masz prawo do dostępu do swoich danych osobowych lub do ich wycofania. Aby wykonać przysługujące uprawnienia, skontaktuj się z nami za pośrednictwem witryny www.nokia.com lub bezpośrednio pod adresem: Nokia Corporation c/o Privacy, FIN-Keilalahdentie 4, 02150 Espoo, Finland."\n\n"Dodatkowe powiadomienia dotyczące m.in. prywatności otrzymasz po skorzystaniu z innych funkcji urządzenia. Korzystanie z usług i aplikacji Nokia na Twoim telefonie podlega Warunkom świadczenia usług i Zasadom ochrony prywatności firmy Nokia. Możesz się z nimi zapoznać w dowolnym momencie na stronie <a href="http://www.nokia.com/privacy">www.nokia.com/privacy</a>."</string>
+    <string name="rate_your_phone">"‭Oceń swój telefon"</string>
+    <string name="intro_page">"Twoja opinia jest dla nas bardzo cenna. Podziel się z nami swoimi spostrzeżeniami na temat swojego nowego telefonu."\n" Jeśli chcesz wziąć udział w tej ankiecie później, znajdziesz ją w menu Ustawienia."</string>
+    <string name="share_the_love">"Przekaż opinię"</string>
+    <string name="not_now">"Nie teraz, dzięki"</string>
+    <string name="update_status">"Stan aktualizacji"</string>
+    <string name="I_love_nokia">"Mój nowy telefon Nokia jest fantastyczny! Sprawdź go: %1$s"</string>
+    <string name="for_test_start">Start</string>
+    <string name="for_test_info">This Activity will launch NPSActivity and transfer the parameters { TestAppName TestProjectId TestSourceId TestBackend TestAppVersion TestGenericParams } to it.</string>
+
+</resources>

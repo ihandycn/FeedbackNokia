@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Nokia корп. пікір білдіру"</string>
+    <string name="privacy_policy_name">"Құпиялық"</string>
+    <string name="device_nps_text">"Бұл телефонды досыңызға немесе әріптесіңізге ұсыну ықтималдығыңыз қандай?"</string>
+    <string name="product_nps_text">"Осы өнімді немесе қызметті досыңызға немесе әріптесіңізге қалай ұсынасыз? (%1$s)"</string>
+    <string name="score_selector_label_min">"0: Неғайбыл"</string>
+    <string name="score_selector_label_max">"10: Әбден мүмкін"</string>
+    <string name="score_selector_min">0</string>
+    <string name="score_selector_max">10</string>
+    <string name="score_selector_label">"Ұпай беру үшін түртіңіз"</string>
+    <string name="why_this_score">"Бұл ұпайды беру себебіңізді түсіндіріңіз:"</string>
+    <string name="your_feedback">"Пікірді осында жаз-ыз"</string>
+    <string name="checkbox_label">"Егжей-тегжейлерін білу үшін сізге хабарласуымызға бола ма?"</string>
+    <string name="email_entry_field_pre_fill_in">"Эл./п. мек. ос-да енг-з"</string>
+    <string name="privacy_info_label">"Ақпаратыңыз телефоныңызбен байланыстырылып, "<a href="nps://launch_nokiaprivacypolicy">"Nokia Құпиялық саясатына"</a>" сәйкес өңделеді. Оператор ақысы алынуы мүмкін."</string>
+    <string name="send_button_label">"Жіберу"</string>
+    <string name="OK">"OK"</string>
+    <string name="cancel">"Бас тарту"</string>
+    <string name="Later">"Кейін"</string>
+    <string name="status_message_while_sending">"Пікір жіберілуде"</string>
+    <string name="thank_you_title">"Рақмет"</string>
+    <string name="thank_you_product">"Пікіріңізді бізбен бөліскеніңізге рақмет. Ол болашақта өнімдерімізді жақсартуға көмектеседі."\n\n" Осымен сауалнама аяқталды."</string>
+    <string name="thank_you_phone_0_3">"Телефоныңыз сізге ұнамағаны өкінішті. Егер оны қолданып көрмеген болсаңыз, Nokia Care көмектесе алуы мүмкін."\n\n"Біз пікіріңізді шынымен жоғары бағалаймыз. Телефонды қалай пайдаланатыныңызды түсіну біз үшін өте пайдалы."</string>
+    <string name="thank_you_phone_4_8">"Біз пікіріңізді шынымен жоғары бағалаймыз. Телефонды қалай пай\u00ADдаланатыныңызды түсіну біз үшін өте пайдалы."</string>
+    <string name="thank_you_phone_9_10">"Біз пікіріңізді шынымен жоғары бағалаймыз. Телефонды қалай пайдаланатыныңызды түсіну біз үшін өте пайдалы."\n\n"Телефоныңыз сізге ұнағанына қуаныштымыз! Неге жария етпеске?"</string>
+    <string name="cannot_send_feedback_title">"Пікірді жіб-у мүм. емес"</string>
+    <string name="cannot_send_feedback_body">"Ұшу режимі өшірулі болуын қамтамасыз етіп, деректер немесе Wi-Fi байланысын тексеріңіз."</string>
+    <string name="close">"Жабу"</string>
+    <string name="nokia_privacy_policy">"Nokia құпиялығыңызды құрметтейді. Құрылғы іске қосылғаннан кейін бірегей құрылғы және желі туралы ақпаратыңыз Nokia корпорациясына жіберіледі. Бұл ақпарат еліңіздегі қажеттіліктерді жақсырақ қанағаттандыруымызға, бағдарламалық құрал жаңартуларын беруімізге, Nokia тұтынушыларына қолдау ұсынуымызға және Nokia қызметтерін іске қосуымызға мүмкіндік береді. Ол жеке басыңызды анықтау немесе тікелей маркетинг үшін пайдаланылмайды."\n\n"Біз жиналған ақпаратты ешқандай мақсатта сатпаймыз. Біз тек оны басқа Nokia компанияларымен немесе оны біздің атымыздан өңдейтін өкілетті үшінші тараптармен немесе бұлау істеу үшін заң бойынша міндеттелген кезде бөлісеміз."\n\n"Ақпарат қолданыстағы заңдарға сәйкес халықаралық шекаралар арқылы және Еуропадан тыс аумақтарға тасымалдануы мүмкін. Біз ақпаратты қорғау үшін тиісті ақпарат қауіпсіздігі шараларын қолданамыз."\n\n"Жеке деректеріңізге қол жеткізуге немесе оларды түзетуге құқығыңыз бар. Құқықтарыңызды жүзеге асыру үшін, www.nokia.com арқылы немесе тікелей Nokia Corporation c/o Privacy, FIN-Keilalahdentie 4, 02150 Espoo, Финляндия мекенжайы бойынша бізге хабарласыңыз."\n\n"Құрылғыңыздың әртүрлі мүмкіндіктерін қолданғанда, қосымша құпиялық туралы немесе басқа ескертпелер берілуі мүмкін. Nokia қызметтері мен қолданбаларын пайдалану кезінде Nokia Пайдалану шарттары мен Құпиялық саясаты басшылыққа алынады. Оларды кез келген уақытта <a href="http://www.nokia.com/privacy">www.nokia.com/privacy</a> торабына кіріп, оқуға болады."</string>
+    <string name="rate_your_phone">"Телеф-ды бағалаңыз"</string>
+    <string name="intro_page">"Пікіріңіз Nokia үшін өте құнды, сондықтан жаңа телефоныңыз туралы өз ойыңызды айтып беруіңізді өтінеміз."\n" Бұл сауалнамаға кейін қатысқыңыз келсе, оны Параметрлер мәзірінен табуға болады."</string>
+    <string name="share_the_love">"Ұнат-ды бөліс"</string>
+    <string name="not_now">"Рақмет, кейін"</string>
+    <string name="update_status">"Күйді жаңарту"</string>
+    <string name="I_love_nokia">"Маған жаңа Nokia телефоным ұнайды! Мына жерден қара: %1$s"</string>
+    <string name="for_test_start">Start</string>
+    <string name="for_test_info">This Activity will launch NPSActivity and transfer the parameters { TestAppName TestProjectId TestSourceId TestBackend TestAppVersion TestGenericParams } to it.</string>
+
+</resources>

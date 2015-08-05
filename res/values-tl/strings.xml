@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Feedback sa Nokia"</string>
+    <string name="privacy_policy_name">"Pagkapribado"</string>
+    <string name="device_nps_text">"Gaano ka lamang na irerekumenda mo ang teleponong ito sa isang kaibigan o kasama?"</string>
+    <string name="product_nps_text">"Gaano kalamang na irerekumenda mo ang produkto o serbisyong ito sa isang kaibigan o isang kasamahan? (%1$s)"</string>
+    <string name="score_selector_label_min">"0: Malamang na hindi talaga"</string>
+    <string name="score_selector_label_max">"10: Malamang na malamang"</string>
+    <string name="score_selector_min">0</string>
+    <string name="score_selector_max">10</string>
+    <string name="score_selector_label">"I-tap para mag-score"</string>
+    <string name="why_this_score">"Mangyaring sabihin sa amin kung bakit mo ibinigay ang score na ito:"</string>
+    <string name="your_feedback">"Isulat dito feedback mo"</string>
+    <string name="checkbox_label">"Maaari ka ba namin kontakin pagkatapos para sa mga detalye?"</string>
+    <string name="email_entry_field_pre_fill_in">"Ibigay ang email addr. mo dito"</string>
+    <string name="privacy_info_label">"Ang iyong impormasyon ay iuugnay sa iyong telepono at tatratuhin ayon sa "<a href="nps://launch_nokiaprivacypolicy">"Patakaran ng Pagkapribado ng Nokia."</a>" Maaaring lumapat ang mga singil ng operator."</string>
+    <string name="send_button_label">"Ipadala"</string>
+    <string name="OK">"OK"</string>
+    <string name="cancel">"Kanselahin"</string>
+    <string name="Later">"Saka na"</string>
+    <string name="status_message_while_sending">"Ipinapadala ang feedback"</string>
+    <string name="thank_you_title">"Salamat sa iyo"</string>
+    <string name="thank_you_product">"Salamat sa iyong pag-share ng iyong opinyon sa amin. Matutulungan kami nitong gawing mas mainam ang aming mga produkto sa hinaharap."\n\n" Kinukumpleto nito ang survey."</string>
+    <string name="thank_you_phone_0_3">"Ikinalulungkot naming malaman na hindi ka masaya sa iyong telepono. Kung hindi mo pa nasubukan ito, maaaring makatulong ang Nokia Care."\n\n"Talagang ikinalulugod namin ang iyong feedback. Talagang nakakatulong ito sa amin na maunawaan kung papaano mo nararanasan ang iyong telepono."</string>
+    <string name="thank_you_phone_4_8">"Talagang ikinalulugod namin ang iyong feedback. Sobrang nakakatulong ito sa amin na maunawaan kung papaano mo nararanasan ang iyong telepono."</string>
+    <string name="thank_you_phone_9_10">"Talagang ikinalulugod namin ang iyong feedback. Sobrang nakakatulong ito sa amin na maunawaan kung papaano mo nararanasan ang iyong telepono."\n\n"Natutuwa kaming malaman na gusto mo ang iyong telepono! Bakit hindi ikalat ang balita?"</string>
+    <string name="cannot_send_feedback_title">"Di mpadadala feedback"</string>
+    <string name="cannot_send_feedback_body">"Siguruhin na naka-off ang mode na flight at suriin ang iyong koneksyong data o Wi-Fi."</string>
+    <string name="close">"Isara"</string>
+    <string name="nokia_privacy_policy">"Ginagalang ng Nokia ang iyong pagkapribado. Sa pag-activate ng aparato ang iyong natatanging impormasyon ng aparato at network ay ipinapadala sa Nokia Corporation. Binibigyan kaming kakayahan ng impormasyong ito na mas mainam na matugunan ang hinihingi sa iyong bansa, makapagkaloob ng mga update ng software, suportahan ang Nokia customer care, ay i-activate ang mga serbisyo ng Nokia. Hindi ito gagamitin para personal kang kilalanin o para sa direktang pagmemerkado."\n\n"Hindi namin ibebenta ang impormasyong nakolekta sa anumang dahilan. Maaari lang namin i-share ito sa ibang kumpanya ng Nokia o mga awtorisadong ikatlong partido na nagpoproseso nito sa ngalan namin o kapag may legal na obligasyon na gawin."\n\n"Ang impormasyon ay maaaring ilipat sa kabilang dako ng internasyonal na mga hangganan at labas ng Europe bilang pagsunod sa mga nalalapat na batas. Gumagamit kami ng mga naaangkop na hakbang sa seguridad ng impormasyon para protektahan ang impormasyon."\n\n"Mayroon kang karapatan na i-access o itama ang iyong personal na data. Para gamitin ang iyong mga karapatan, kontakin kami sa www.nokia.com o nang direkta sa Nokia Corporation c/o Privacy, FIN-Keilalahdentie 4, 02150 Espoo, Finland."\n\n"Ang karagdagang pagkapribado o iba pang mga abiso ay maaaring ipagkaloob kapag gagamitin mo ang iba\'t ibang tampok ng iyong aparato. Ang iyong paggamit sa mga serbisyo at application ng Nokia sa iyong aparato ay pinamamahalaan ng Mga takda sa Paggamit at Patakaran ng Pagkapribado ng Nokia. Mababasa mo ang mga ito sa anumang oras sa pamamagitan ng pagbisita sa <a href="http://www.nokia.com/privacy">www.nokia.com/privacy</a>."</string>
+    <string name="rate_your_phone">"I-rate ang iyong telepono"</string>
+    <string name="intro_page">"Napakahalaga ng iyong opinyon sa Nokia, kaya mangyaring sabihin sa amin kung ano ang masasabi mo sa iyong bagong telepono."\n" Kung gusto mong saka na sumali sa survey na ito, mahahanap mo ito sa Mga setting."</string>
+    <string name="share_the_love">"I-share ang love"</string>
+    <string name="not_now">"Di ngyon, slamat"</string>
+    <string name="update_status">"Status ng update"</string>
+    <string name="I_love_nokia">"Gusto ko ang aking bagong Nokia phone! Tingnan ito dito: %1$s"</string>
+    <string name="for_test_start">Start</string>
+    <string name="for_test_info">This Activity will launch NPSActivity and transfer the parameters { TestAppName TestProjectId TestSourceId TestBackend TestAppVersion TestGenericParams } to it.</string>
+
+</resources>

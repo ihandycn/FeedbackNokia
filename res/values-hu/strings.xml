@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Visszajelzés a Nokiának"</string>
+    <string name="privacy_policy_name">"Adatvédelem"</string>
+    <string name="device_nps_text">"Mennyire valószínű, hogy ajánlaná ezt a telefont barátainak vagy kollégáinak?"</string>
+    <string name="product_nps_text">"Mennyire valószínű, hogy ajánlaná ezt a terméket vagy szolgáltatást barátainak vagy kollégáinak? (%1$s)"</string>
+    <string name="score_selector_label_min">"0: Egyáltalán nem valószínű"</string>
+    <string name="score_selector_label_max">"10: Nagyon valószínű"</string>
+    <string name="score_selector_min">0</string>
+    <string name="score_selector_max">10</string>
+    <string name="score_selector_label">"Ha pontozni kíván, érintse meg"</string>
+    <string name="why_this_score">"Mondja el, miért adta ezt a pontszámot:"</string>
+    <string name="your_feedback">"Visszajelzését írja ide"</string>
+    <string name="checkbox_label">"Kérhetünk Öntől további információt?"</string>
+    <string name="email_entry_field_pre_fill_in">"Írja be ide e-mail címét"</string>
+    <string name="privacy_info_label">"A rendszer az adatokat a telefonhoz társítja. Az adatkezelés a "<a href="nps://launch_nokiaprivacypolicy">"Nokia Adatvédelmi irányelveinek"</a>" megfelelően történik. A szolgáltató díjat számíthat fel."</string>
+    <string name="send_button_label">"Küld"</string>
+    <string name="OK">"OK"</string>
+    <string name="cancel">"Mégse"</string>
+    <string name="Later">"Később"</string>
+    <string name="status_message_while_sending">"Visszajelzés küldése"</string>
+    <string name="thank_you_title">"Köszönjük"</string>
+    <string name="thank_you_product">"Köszönjük, hogy megosztotta velünk véleményét. Segítségével a jövőben még jobb termékeket hozhatunk létre."\n\n"A kérdőív kitöltése ezzel befejeződött."</string>
+    <string name="thank_you_phone_0_3">"Sajnálattal értesültünk róla, hogy nem elégedett telefonjával. Ha még nem próbálta ki a Nokia Care szolgáltatást, ott esetleg segítséget kaphat."\n\n"Véleménye sokat számít nekünk. Nagy segítséget jelent számunkra, ha megosztja velünk a telefonjával kapcsolatos tapasztalatait."</string>
+    <string name="thank_you_phone_4_8">"Véleménye sokat számít nekünk. Nagy segítséget jelent számunkra, ha megosztja velünk a telefonjával kapcsolatos tapasztalatait."</string>
+    <string name="thank_you_phone_9_10">"Véleménye sokat számít nekünk. Nagy segítséget jelent számunkra, ha megosztja velünk a telefonjával kapcsolatos tapasztalatait."\n\n"Örömmel értesültünk róla, hogy meg van elégedve telefonjával! Miért nem osztja meg ezt a világgal?"</string>
+    <string name="cannot_send_feedback_title">"Nem küldhető visszajelzés"</string>
+    <string name="cannot_send_feedback_body">"Győződjön meg arról, hogy kikapcsolta a repülés módot, és ellenőrizze az adat- vagy a Wi-Fi-kapcsolatot."</string>
+    <string name="close">"Bezár"</string>
+    <string name="nokia_privacy_policy">"A Nokia figyelmet fordít az Ön személyes adatainak védelmére. A készülék aktiválásakor a rendszer elküldi a Nokiának az Ön egyedi készülék- és hálózatadatait. Az így kapott adatok felhasználásával jobb minőségű szolgáltatást nyújthatunk az Ön országában, szoftverfrissítéseket kínálhatunk, támogathatjuk a Nokia ügyfélszolgálatot, és aktiválhatjuk a Nokia szolgáltatásait. Az adatokat nem használjuk fel az Ön személy szerinti azonosítására vagy direktmarketing célokra."\n\n"Az összegyűjtött adatokat semmilyen céllal nem értékesítjük. Azokat csak akkor osztjuk meg a Nokia más vállalataival vagy adatfeldolgozást végző jóváhagyott harmadik felekkel, ha erre törvény kötelez minket."\n\n"Az adatokat \u2013 a vonatkozó jogszabályok figyelembe vételével \u2013 esetleg nemzetközi határokon keresztül és Európán kívülre is továbbíthatják. Az adatvédelem érdekében megfelelő adatbiztonsági rendszereket alkalmazunk."\n\n"Joga van ahhoz, hogy megnézze és pontosítsa személyes adatait. Jogai érvényesítéséhez vegye fel velünk a kapcsolatot a www.nokia.com webhelyen vagy a következő címen: Nokia Corporation c/o Privacy, FIN-Keilalahdentie 4, 02150 Espoo, Finland."\n\n"A készülék különböző funkcióinak használatakor további adatvédelmi vagy más értesítéseket kaphat. A készülékkel elérhető Nokia szolgáltatások és alkalmazások használatát a Nokia Használati feltételek és Adatvédelmi irányelvek szabályozzák. Ezek a <a href="http://www.nokia.com/privacy">www.nokia.com/privacy</a> címen olvashatók."</string>
+    <string name="rate_your_phone">"Értékelje telefonját"</string>
+    <string name="intro_page">"A Nokiának nagyon fontos az Ön véleménye, ezért kérjük, mondja el nekünk, mit gondol az új telefonjáról."\n\n"Ha a kérdőívet később szeretné kitölteni, ezt a Beállítások menüpontból teheti meg."</string>
+    <string name="share_the_love">"Küldj szeretetet"</string>
+    <string name="not_now">"Köszönöm, nem"</string>
+    <string name="update_status">"Állapot frissítése"</string>
+    <string name="I_love_nokia">"Szeretem az új Nokia-telefonomat! Nézze meg itt: %1$s"</string>
+    <string name="for_test_start">Start</string>
+    <string name="for_test_info">This Activity will launch NPSActivity and transfer the parameters { TestAppName TestProjectId TestSourceId TestBackend TestAppVersion TestGenericParams } to it.</string>
+
+</resources>

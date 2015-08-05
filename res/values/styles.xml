@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="info_layout">
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_marginLeft">10dip</item>
+        <item name="android:layout_marginRight">10dip</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <style name="TextAppearance" parent="android:TextAppearance"></style>
+
+    <style name="TextAppearance.info_score_selector">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="TextAppearance.info_score_selector_text">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="TextAppearance.info_score_selector_min_max">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="TextAppearance.info_value">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="TextAppearance.info_editor_title">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="TextAppearance.info_editor_text">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="info_score_selector">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:textAppearance">@style/TextAppearance.info_score_selector</item>
+    </style>
+
+    <style name="info_score_selector_text">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:textAppearance">@style/TextAppearance.info_score_selector_text</item>
+    </style>
+
+    <style name="info_score_selector_min_max">
+        <item name="android:layout_gravity">center_vertical|center_horizontal</item>
+        <item name="android:textAppearance">@style/TextAppearance.info_score_selector_min_max</item>
+    </style>
+
+    <style name="info_value">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textAppearance">@style/TextAppearance.info_value</item>
+    </style>
+
+    <style name="info_editor_title">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textAppearance">@style/TextAppearance.info_editor_title</item>
+    </style>
+
+    <style name="info_editor_text">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:textAppearance">@style/TextAppearance.info_editor_text</item>
+    </style>
+
+    <style name="full_screen_button">
+        <item name="android:layout_width">186.7dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginLeft">56.7dip</item>
+        <item name="android:layout_marginRight">56.7dip</item>
+        <item name="android:layout_marginBottom">9.3dip</item>
+        <item name="android:layout_marginTop">9.3dip</item>
+        <item name="android:layout_alignParentBottom">true</item>
+    </style>
+
+</resources>

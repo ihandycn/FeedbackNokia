@@ -1,0 +1,187 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/nps_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout style="@style/info_layout" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dip" >
+
+                <TextView
+                    android:id="@+id/do_you_like"
+                    style="@style/info_value" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <TextView
+                    style="@style/info_value"
+                    android:text="@string/score_selector_label_max" />
+
+                <TextView
+                    style="@style/info_value"
+                    android:text="@string/score_selector_label_min" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="13.3dip"
+            android:layout_marginTop="4dip"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/score_selector_label"
+                    style="@style/info_score_selector_text"
+                    android:text="@string/score_selector_label"
+                    android:textColor="@color/score_selector_label_color" />
+
+                <TextView
+                    android:id="@+id/score"
+                    style="@style/info_score_selector"
+                    android:layout_gravity="center_vertical|center_horizontal"
+                    android:text="@string/score_selector_min"
+                    android:textColor="@color/score_color"
+                    android:visibility="invisible" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dip"
+                android:layout_marginTop="10dip"
+                android:orientation="horizontal" >
+
+                <TextView
+                    style="@style/info_score_selector_min_max"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/score_selector_min" />
+
+                <SeekBar
+                    android:id="@+id/scorebar"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="4dip"
+                    android:layout_marginRight="4dip"
+                    android:layout_weight="1"
+                    android:max="10"
+                    android:thumbOffset="5dip" />
+
+                <TextView
+                    style="@style/info_score_selector_min_max"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/score_selector_max" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16.7dip"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="26.7dip"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="2.7dip" >
+
+                <TextView
+                    style="@style/info_editor_title"
+                    android:text="@string/why_this_score" />
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/free_text_edit"
+                style="@style/info_editor_text"
+                android:hint="@string/your_feedback"
+                android:imeOptions="actionDone|flagNoExtractUi|flagNoFullscreen"
+                android:inputType="text|textMultiLine" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16.7dip"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    style="@style/info_value"
+                    android:layout_width="0dip"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:text="@string/checkbox_label" />
+
+                <CheckBox
+                    android:id="@+id/check_box"
+                    style="@style/info_value"
+                    android:layout_gravity="center_vertical|right" />
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/email_edit"
+                style="@style/info_value"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/email_entry_field_pre_fill_in"
+                android:imeOptions="actionDone|flagNoExtractUi|flagNoFullscreen"
+                android:inputType="textEmailAddress|textMultiLine"
+                android:visibility="invisible" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/privacy_info"
+                style="@style/info_value"
+                android:text="@string/privacy_info_label" />
+        </LinearLayout>
+        
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1.0dip"
+            android:background="@android:drawable/divider_horizontal_dark" />
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/send_feedback"
+                style="@style/full_screen_button"
+                android:text="@string/send_button_label" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

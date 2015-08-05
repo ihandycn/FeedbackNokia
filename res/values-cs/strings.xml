@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Názor pro spol. Nokia"</string>
+    <string name="privacy_policy_name">"Soukromí"</string>
+    <string name="device_nps_text">"S\u00A0jakou pravděpodobností byste tento telefon doporučili přátelům nebo kolegům?"</string>
+    <string name="product_nps_text">"S\u00A0jakou pravděpodobností byste tento výrobek nebo službu doporučili přátelům nebo kolegům? (%1$s)"</string>
+    <string name="score_selector_label_min">"0: Vůbec ne"</string>
+    <string name="score_selector_label_max">"10: Velmi pravděpodobně"</string>
+    <string name="score_selector_min">0</string>
+    <string name="score_selector_max">10</string>
+    <string name="score_selector_label">"Klepnutím zadejte skóre"</string>
+    <string name="why_this_score">"Napište, proč jste zadali toto skóre:"</string>
+    <string name="your_feedback">"Sem napište svůj názor"</string>
+    <string name="checkbox_label">"Můžeme se vám později ozvat s\u00A0žádostí o\u00A0detaily?"</string>
+    <string name="email_entry_field_pre_fill_in">"Sem zadejte e-mail"</string>
+    <string name="privacy_info_label">"Tyto informace budou přiřazeny k\u00A0vašemu telefonu a\u00A0bude s\u00A0nimi zacházeno podle "<a href="nps://launch_nokiaprivacypolicy">"zásad ochrany osobních údajů Nokia."</a>" Mohou být účtovány poplatky operátora."</string>
+    <string name="send_button_label">"Odeslat"</string>
+    <string name="OK">"OK"</string>
+    <string name="cancel">"Zrušit"</string>
+    <string name="Later">"Později"</string>
+    <string name="status_message_while_sending">"Posílání názoru"</string>
+    <string name="thank_you_title">"Děkujeme"</string>
+    <string name="thank_you_product">"Děkujeme, že s námi sdílíte váš názor. Pomůže nám to vylepšovat naše výrobky."\n\n"Toto je konec ankety."</string>
+    <string name="thank_you_phone_0_3">"Je nám líto, že s\u00A0telefonem nejste spokojeni. Pokud jste to zatím nezkusili, může vám pomoci středisko Nokia Care."\n\n"Na vašem názoru nám velmi záleží. Velmi nám pomůže, když se dozvíme o\u00A0vašich zkušenostech s\u00A0telefonem."</string>
+    <string name="thank_you_phone_4_8">"Na vašem názoru nám velmi záleží. Velmi nám pomůže, když se dozvíme o\u00A0vašich zkušenostech s\u00A0telefonem."</string>
+    <string name="thank_you_phone_9_10">"Na vašem názoru nám velmi záleží. Velmi nám pomůže, když se dozvíme o\u00A0vašich zkušenostech s\u00A0telefonem."\n\n"Jsme rádi, že se vám telefon líbí. Proč to tedy neříci dalším?"</string>
+    <string name="cannot_send_feedback_title">"Názor nelze odeslat"</string>
+    <string name="cannot_send_feedback_body">"Zkontrolujte, zda je vypnut režim Letadlo a\u00A0zkontrolujte datové připojení nebo připojení k\u00A0síti Wi-Fi."</string>
+    <string name="close">"Zavřít"</string>
+    <string name="nokia_privacy_policy">"Společnost Nokia respektuje vaše soukromí. Při aktivaci zařízení jsou společnosti Nokia Corporation odeslány jedinečné informace o\u00A0zařízení a\u00A0síti. Tyto informace nám umožňují lépe vyhovovat požadavkům z\u00A0vaší země, poskytovat aktualizace softwaru, podporovat péči o\u00A0zákazníky Nokia a\u00A0aktivovat služby Nokia. Nebudou využiti k\u00A0vaší identifikaci ani pro přímý marketing."\n\n"Shromážděné údaje nebudeme za žádným účelem prodávat. Můžeme je pouze sdílet s\u00A0ostatními společnostmi Nokia nebo autorizovanými nezávislými subjekty, které je pro nás zpracovávají nebo kterým jsme je povinni poskytnout ze zákona."\n\n"Informace mohou být v\u00A0souladu s\u00A0příslušnými zákony přenášeny přes hranice a\u00A0mimo Evropu. Informace chráníme přiměřenými bezpečnostními opatřeními."\n\n"Máte právo ke svým údajům přistupovat a\u00A0opravovat je. Chcete-li toto právo využít, obraťte se na nás přes web www.nokia.com nebo přímo na adrese Nokia Corporation c/o Privacy, FIN-Keilalahdentie 4, 02150 Espoo, Finland."\n\n"Když používáte různé funkce zařízení, mohou být zobrazena další upozornění na soukromí nebo jiná upozornění. Využívání služeb a\u00A0aplikací Nokia ve vašem zařízení se řídí podmínkami používání služeb a\u00A0zásadami ochrany osobních údajů Nokia. Tyto dokumenty si můžete kdykoli přečíst na webu <a href="http://www.nokia.com/privacy">www.nokia.com/privacy</a>."</string>
+    <string name="rate_your_phone">"Ohodnoťte svůj telefon"</string>
+    <string name="intro_page">"Váš názor je pro společnost Nokia velmi důležitý, proto nám prosím sdělte, co si o\u00A0novém telefonu myslíte."\n\n"Pokud se této ankety chcete zúčastnit později, najdete ji v\u00A0Nastavení."</string>
+    <string name="share_the_love">"Sdílejte zaujetí"</string>
+    <string name="not_now">"Teď ne, děkuji"</string>
+    <string name="update_status">"Aktualizace stavu"</string>
+    <string name="I_love_nokia">"Mám rád svůj nový telefon Nokia! Podívej se na něj tady: %1$s"</string>
+    <string name="for_test_start">Start</string>
+    <string name="for_test_info">This Activity will launch NPSActivity and transfer the parameters { TestAppName TestProjectId TestSourceId TestBackend TestAppVersion TestGenericParams } to it.</string>
+
+</resources>

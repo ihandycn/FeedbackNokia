@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Nokia\'ya görüş bildir"</string>
+    <string name="privacy_policy_name">"Gizlilik"</string>
+    <string name="device_nps_text">"Arkadaş veya meslektaşlarınıza bu telefonu ne derece önerirsiniz?"</string>
+    <string name="product_nps_text">"Bu ürün ya da hizmeti bir arkadaş veya iş arkadaşınıza tavsiye etme olasılığınız nedir? (%1$s)"</string>
+    <string name="score_selector_label_min">"0: Hiç mümkün değil"</string>
+    <string name="score_selector_label_max">"10: Yüksek derecede olası"</string>
+    <string name="score_selector_min">0</string>
+    <string name="score_selector_max">10</string>
+    <string name="score_selector_label">"Puan vermek için dokunun"</string>
+    <string name="why_this_score">"Lütfen bu puanı verme nedeninizi belirtin:"</string>
+    <string name="your_feedback">"Geri bildiriminizi bry yazın"</string>
+    <string name="checkbox_label">"Ayrıntılar hakkında size daha sonra ulaşabilir miyiz?"</string>
+    <string name="email_entry_field_pre_fill_in">"E-posta adresinizi girin"</string>
+    <string name="privacy_info_label">"Bilgileriniz telefonunuzla ilişkilendirilecek ve "<a href="nps://launch_nokiaprivacypolicy">"Nokia Gizlilik Poliçesi"</a>"\'ne göre işleme alınacaktır. Operatör ücretleri uygulanabilir."</string>
+    <string name="send_button_label">"Gönder"</string>
+    <string name="OK">"Tamam"</string>
+    <string name="cancel">"İptal"</string>
+    <string name="Later">"Daha sonra"</string>
+    <string name="status_message_while_sending">"Geri bildirim gönderiliyor"</string>
+    <string name="thank_you_title">"Teşekkür ederiz"</string>
+    <string name="thank_you_product">"Düşüncelerinizi paylaşarak gelecekteki ürünlerimizi geliştirmemize katkıda bulunduğunuz için teşekkür ederiz."\n\n" Anket tamamlanmıştır."</string>
+    <string name="thank_you_phone_0_3">"Telefonunuzdan memnun olmamanızdan dolayı üzgünüz. Henüz denemediyseniz, Nokia Care size yardımcı olabilir."\n\n"Geribildiriminiz için gerçekten teşekkür ederiz. Telefonunuzu nasıl kullandığınızı anlamamız açısından çok yararlı oldu."</string>
+    <string name="thank_you_phone_4_8">"Geribildiriminiz için gerçekten teşekkür ederiz. Telefonunuzu nasıl kullandığınızı anlamamız açısından çok yararlı oldu."</string>
+    <string name="thank_you_phone_9_10">"Geribildiriminiz için gerçekten teşekkür ederiz. Telefonunuzu nasıl kullandığınızı anlamamız açısından çok yararlı oldu."\n\n"Telefonunuzdan memnun olmanıza sevindik! Neden bu bilgiyi paylaşmıyorsunuz?"</string>
+    <string name="cannot_send_feedback_title">"Geri bldrm gönderilemedi"</string>
+    <string name="cannot_send_feedback_body">"Uçak modunun kapalı olduğundan emin olun ve veri veya Wi-Fi bağlantınızı kontrol edin."</string>
+    <string name="close">"Kapat"</string>
+    <string name="nokia_privacy_policy">"Nokia gizliliğinize saygı gösterir. Cihazınızın etkinleştirilmesini takiben benzersiz cihaz ve ağ bilgileriniz Nokia Corporation\'a gönderilir. Bu bilgiler ülkenizdeki taleplere daha iyi yanıt vermemize, yazılım güncellemeleri ile Nokia müşteri hizmetleri desteği sunmamıza ve Nokia servislerini etkinleştirmemize olanak sağlar. Bu bilgiler kimliğinizi saptamak veya doğrudan pazarlama amacıyla kullanılmaz."\n\n"Hiçbir şekilde toplanan bilgilerin satışını yapmayacağız. Bu bilgileri yalnızca bizim adımıza veri işleyen diğer Nokia şirketleri veya yetkili üçüncü taraflarla ya da yasalar gerektirdiği takdirde paylaşabiliriz."\n\n"Bilgiler, uluslararası olarak ve Avrupa dışına geçerli yasalara uygun olarak aktarılabilir. Bilgileri korumak amacıyla uygun bilgi güvenlik önlemleri kullanılmaktadır."\n\n"Kişisel verilerinize erişme ve değiştirme hakkına sahipsiniz. Haklarınızı kullanmak için www.nokia.com veya doğrudan Nokia Corporation c/o Privacy, FIN-Keilalahdentie 4, 02150 Espoo, Finlandiya adresinden bize ulaşabilirsiniz."\n\n"Cihazınızın farklı özelliklerini kullandığınızda ilave gizlilik veya diğer bildirimler uygulanabilir. Telefonunuzdaki Nokia servis ve uygulamalarını kullanımınız Nokia Servis Koşulları\'na ve Gizlilik Poliçesi\'ne tabidir. Bu belgelere istediğiniz zaman <a href="http://www.nokia.com/privacy">www.nokia.com/privacy</a> adresinden erişebilirsiniz."</string>
+    <string name="rate_your_phone">"Telefonu derecelendirin"</string>
+    <string name="intro_page">"Düşünceniz Nokia için büyük önem taşımaktadır, bu nedenle lütfen yeni telefonunuzla ilgili düşüncelerinizi bizimle paylaşın."\n" Bu ankete daha sonra katılmak istediğiniz takdirde, Ayarlar\'dan ulaşabilirsiniz."</string>
+    <string name="share_the_love">"Derecelendirin"</string>
+    <string name="not_now">"Şimdi dğl, tşkkrlr"</string>
+    <string name="update_status">"Durumu güncelle"</string>
+    <string name="I_love_nokia">"Yeni Nokia telefonumdan memnunum! Buradan göz atabilirsiniz: %1$s"</string>
+    <string name="for_test_start">Start</string>
+    <string name="for_test_info">This Activity will launch NPSActivity and transfer the parameters { TestAppName TestProjectId TestSourceId TestBackend TestAppVersion TestGenericParams } to it.</string>
+
+</resources>

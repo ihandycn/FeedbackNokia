@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Σχόλια στη Nokia"</string>
+    <string name="privacy_policy_name">"Προσωπικά δεδομένα"</string>
+    <string name="device_nps_text">"Πόσο πιθανό είναι ότι θα συστήνατε αυτό το τηλέφωνο σε ένα φίλο ή συνάδελφο;"</string>
+    <string name="product_nps_text">"Πόσο πιθανό είναι ότι θα συστήνατε αυτό το προϊόν ή υπηρεσία σε ένα φίλο ή συνάδελφο; (%1$s)"</string>
+    <string name="score_selector_label_min">"0: Καθόλου πιθανό"</string>
+    <string name="score_selector_label_max">"10: Εξαιρετικά πιθανό"</string>
+    <string name="score_selector_min">0</string>
+    <string name="score_selector_max">10</string>
+    <string name="score_selector_label">"Πατήστε για βαθμολογία"</string>
+    <string name="why_this_score">"Γιατί δώσ. αυτήν τη βαθμ.:"</string>
+    <string name="your_feedback">"Γράψτε σχόλια εδώ"</string>
+    <string name="checkbox_label">"Να επικοινωνήσουμε μαζί σας αργότ. για λεπτομέρ.;"</string>
+    <string name="email_entry_field_pre_fill_in">"Δώστε διεύθ. e-mail εδώ"</string>
+    <string name="privacy_info_label">"Οι πληροφορίες σας θα συσχετιστούν με το τηλέφωνό σας και θα τις χειριζόμαστε σύμφωνα με την "<a href="nps://launch_nokiaprivacypolicy">"Πολιτική προστασίας προσωπικών δεδομένων της Nokia."</a>" Ενδέχεται να ισχύουν χρεώσεις φορέα δικτύου."</string>
+    <string name="send_button_label">"Αποστολή"</string>
+    <string name="OK">"Εντάξει"</string>
+    <string name="cancel">"Ακύρωση"</string>
+    <string name="Later">"Αργότερα"</string>
+    <string name="status_message_while_sending">"Αποστολή σχολίων..."</string>
+    <string name="thank_you_title">"Ευχαριστούμε"</string>
+    <string name="thank_you_product">"Ευχαριστούμε που μας είπατε τη γνώμη σας. Θα μας βοηθήσει να βελτιώσουμε τα προϊόντα μας στο μέλλον."\n\n"Εδώ ολοκληρώνεται η έρευνα."</string>
+    <string name="thank_you_phone_0_3">"Λυπούμαστε που δεν είστε ευχαριστημένος/η με το τηλέφωνό σας. Εάν δεν το έχετε δοκιμάσει ήδη, το Nokia Care μπορεί να είναι σε θέση να σας βοηθήσει."\n\n"Εκτιμούμε πολύ τα σχόλιά σας. Μας βοηθούν να κατανοήσουμε την εμπειρία σας με το τηλέφωνό σας."</string>
+    <string name="thank_you_phone_4_8">"Εκτιμούμε πολύ τα σχόλιά σας. Μας βοηθούν να κατανοήσουμε την εμπειρία σας με το τηλέφωνό σας."</string>
+    <string name="thank_you_phone_9_10">"Εκτιμούμε πολύ τα σχόλιά σας. Μας βοηθούν να κατανοήσουμε την εμπειρία σας με το τηλέφωνό σας."\n\n"Χαιρόμαστε που σας αρέσει το τηλέφωνό σας. Γιατί δεν το συστήνετε και σε άλλους;"</string>
+    <string name="cannot_send_feedback_title">"Αδύν. η αποστ. σχολίων"</string>
+    <string name="cannot_send_feedback_body">"Βεβαιωθείτε ότι η λειτουργία πτήσης είναι απενεργοποιημένη και ελέγξτε τη σύνδεση δεδομένων ή Wi-Fi."</string>
+    <string name="close">"Κλείσιμο"</string>
+    <string name="nokia_privacy_policy">"Η Nokia σέβεται τα προσωπικά δεδομένα σας. Με την ενεργοποίηση της συσκευής, αποστέλλονται στη Nokia Corporation οι μοναδικές για εσάς πληροφορίες συσκευής και δικτύου, οι οποίες μας επιτρέπουν να ανταποκρινόμαστε καλύτερα στις απαιτήσεις των χρηστών της χώρας σας, να παρέχουμε ενημερώσεις λογισμικού, να υποστηρίζουμε την εξυπηρέτηση πελατών Nokia και να ενεργοποιούμε τις υπηρεσίες Nokia. Οι πληροφορίες αυτές δεν θα χρησιμοποιούνται για την ταυτοποίησή σας ή για άμεση προώθηση προϊόντων."\n\n"Δεν θα πωλούμε τις πληροφορίες που συλλέγουμε για κανένα σκοπό. Ενδέχεται μόνο να τις κοινοποιούμε σε άλλες εταιρείες της Nokia ή εξουσιοδοτημένους τρίτους που τις επεξεργάζονται για λογαριασμό μας ή όταν έχουμε νομική υποχρέωση να το κάνουμε."\n\n"Οι πληροφορίες ενδέχεται να μεταβιβάζονται μεταξύ των διεθνών συνόρων και εκτός Ευρώπης σε συμμόρφωση με την ισχύουσα νομοθεσία. Εφαρμόζουμε τα κατάλληλα μέτρα προστασίας για την ασφάλεια των πληροφοριών."\n\n"Έχετε δικαίωμα πρόσβασης στα προσωπικά δεδομένα σας ή διόρθωσής τους. Για να ασκήσετε τα δικαιώματά σας, επικοινωνήστε μαζί μας μέσω του www.nokia.com ή, απευθείας, στη διεύθυνση Nokia Corporation c/o Privacy, FIN-Keilalahdentie 4, 02150 Espoo, Φινλανδία."\n\n"Ενδέχεται να παρέχονται πρόσθετες δηλώσεις περί προσωπικών δεδομένων ή άλλες δηλώσεις όταν χρησιμοποιείτε τις διάφορες λειτουργίες της συσκευής σας. Η χρήση από εσάς των υπηρεσιών και εφαρμογών Nokia στη συσκευή σας διέπεται από τους Όρους χρήσης υπηρεσίας και την Πολιτική προστασίας προσωπικών δεδομένων της Nokia. Μπορείτε να διαβάσετε αυτά τα νομικά κείμενα στη διεύθυνση <a href="http://www.nokia.com/privacy">www.nokia.com/privacy</a>."</string>
+    <string name="rate_your_phone">"Αξιολογήστε το τηλ. σας"</string>
+    <string name="intro_page">"Η γνώμη σας είναι πολύτιμη για τη Nokia, γι\' αυτό πείτε μας πώς σας φαίνεται το νέο σας τηλέφωνο."\n\n"Εάν θέλετε να πάρετε μέρος στην έρευνα αργότερα, θα την βρείτε στις Ρυθμίσεις."</string>
+    <string name="share_the_love">"Κοιν. θετ. σχολ."</string>
+    <string name="not_now">"Όχι, ευχαριστώ"</string>
+    <string name="update_status">"Ενημέρωση κατάστασης"</string>
+    <string name="I_love_nokia">"Αγαπώ το νέο μου τηλέφωνο Nokia! Ρίξτε μια ματιά εδώ: %1$s"</string>
+    <string name="for_test_start">Start</string>
+    <string name="for_test_info">This Activity will launch NPSActivity and transfer the parameters { TestAppName TestProjectId TestSourceId TestBackend TestAppVersion TestGenericParams } to it.</string>
+
+</resources>
